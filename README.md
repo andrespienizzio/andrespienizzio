@@ -3,9 +3,8 @@
 Mi name is Andrés, i'm from Argentina.
 
 ### Current tecnologies:
-<img src="https://img.shields.io/badge/-Javascript-yellow"/> <img src="https://img.shields.io/badge/-React-lightblue"/> <img src="https://img.shields.io/badge/-Redux-blueviolet"/> <img src="https://img.shields.io/badge/-NodeJS-brightgreen"/> <img src="https://img.shields.io/badge/-HTML-orange"/> 
-
-<img src="https://img.shields.io/badge/-CSS-darkblue"/> <img src="https://img.shields.io/badge/-TypeScript-blue"/>  <img src="https://img.shields.io/badge/-Angular-red"/>  <img src="https://img.shields.io/badge/-Heroku-white"/> <img src="https://img.shields.io/badge/-Postman-darkorange"/> <img src="https://img.shields.io/badge/-MongoDB-green"/>
+<img src="https://img.shields.io/badge/-Javascript-yellow"/> <img src="https://img.shields.io/badge/-React-lightblue"/> <img src="https://img.shields.io/badge/-Redux-blueviolet"/> <img src="https://img.shields.io/badge/-NodeJS-brightgreen"/> <img src="https://img.shields.io/badge/-HTML-orange"/> <img src="https://img.shields.io/badge/-CSS-darkblue"/> 
+<img src="https://img.shields.io/badge/-TypeScript-blue"/>  <img src="https://img.shields.io/badge/-Angular-red"/>  <img src="https://img.shields.io/badge/-Heroku-white"/> <img src="https://img.shields.io/badge/-Postman-darkorange"/> <img src="https://img.shields.io/badge/-MongoDB-green"/>
 
 
 
