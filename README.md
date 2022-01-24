@@ -1,7 +1,8 @@
 # Hi there 👋, mi name is Andrés, i'm from Argentina.
 
 
-I have been studying programming for a short time, today I am doing the second stage of Argentina Programa and I recently finished a three-month intensive course on html, css and javascript. 
+I have been studying programming for a short time, today I'm doing the second stage of Argentina Programa and I recently finished a three-month intensive course on html, css and javascript (and other technologies).
+
 
 ### Current tecnologies:
 <img src="https://img.shields.io/badge/-Javascript-yellow"/> <img src="https://img.shields.io/badge/-React-lightblue"/> <img src="https://img.shields.io/badge/-Redux-blueviolet"/> <img src="https://img.shields.io/badge/-NodeJS-brightgreen"/> <img src="https://img.shields.io/badge/-HTML-orange"/> <img src="https://img.shields.io/badge/-CSS-darkblue"/> 
