@@ -3,9 +3,7 @@
 Mi name is Andrés, i'm from Argentina.
 
 ### Current tecnologies:
-<img src="https://img.shields.io/badge/-Javascript-yellow"/> <img src="https://img.shields.io/badge/-HTML-orange"/> <img src="https://img.shields.io/badge/-CSS-blue"/>
-
-<img src="https://img.shields.io/badge/-TypeScript-darkblue"/>
+<img src="https://img.shields.io/badge/-Javascript-yellow"/> <img src="https://img.shields.io/badge/-HTML-orange"/> <img src="https://img.shields.io/badge/-CSS-darkblue"/> <img src="https://img.shields.io/badge/-TypeScript-blue"/> <img src="https://img.shields.io/badge/-Heroku-white"/> <img src="https://img.shields.io/badge/-Postman-darkorange"/> <img src="https://img.shields.io/badge/-MongoDB-green"/>
 
 https://img.shields.io/badge/-ReactJS-lightblue
 
