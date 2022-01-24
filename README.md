@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<!--
+
 **andrespienizzio/andrespienizzio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -12,4 +12,3 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 Feel free to follow me on [Twitter](https://twitter.com/andrespienizzio) and [Instagram] (https://www.instagram.com/andrespienizzio)
 - ⚡ Fun fact: I'm also a lawyer 
--->
