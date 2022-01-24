@@ -1,5 +1,11 @@
-### Hi there 👋
+### Hi there 👋 
 
+Mi name is Andrés, i'm from Argentina.
+
+### Current tecnologies
+<img src="https://img.shields.io/badge/-Javascript-yellow"/> <img src="https://img.shields.io/badge/-HTML-orange"/> <img src="https://img.shields.io/badge/-CSS-blue"/>
+
+### A little about me:
 
 - 🔭 I am currently working on the main project of the course Argentina Programa (Second Stage).
 - 🌱 I’m currently learning TypeScript and Java.
@@ -7,4 +13,4 @@
 - 📫 Feel free to follow me on [Twitter](https://twitter.com/andrespienizzio) and [Instagram](https://www.instagram.com/andrespienizzio).
 - ⚡ Fun fact: I'm also a lawyer.
 
-
+See you soon!
