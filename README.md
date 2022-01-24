@@ -1,7 +1,7 @@
 # Hi there 👋, mi name is Andrés, i'm from Argentina.
 
 
-I have been studying programming for a short time, today I'm doing the second stage of Argentina Programa and I recently finished a three-month intensive course on html, css and javascript (and other technologies).
+I've been studying programming for a few months now, today I'm doing the second stage of Argentina Programa and I recently finished a three-month intensive course on html, css and javascript (and other technologies).
 
 
 ### Current tecnologies:
@@ -17,7 +17,7 @@ I have been studying programming for a short time, today I'm doing the second st
 - 🌱 I’m currently learning TypeScript and Java.
 - 👯 I’m looking to collaborate on open source projects, linux related programs and blockchain technology.
 - 📫 Feel free to follow me on [Twitter](https://twitter.com/andrespienizzio) and [Instagram](https://www.instagram.com/andrespienizzio).
-- 👨‍💻 All of my projects are available at [GitHub Repositories](https://github.com/andrespienizzio?tab=repositories)
+- 👨‍💻 All of my projects are available at [GitHub Repositories](https://github.com/andrespienizzio?tab=repositories).
 - ⚡ Fun fact: I'm also a lawyer.
 
 See you soon!
