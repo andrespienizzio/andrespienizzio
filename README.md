@@ -1,6 +1,4 @@
-# Hi there 👋 
-
-Mi name is Andrés, i'm from Argentina.
+# Hi there 👋, mi name is Andrés, i'm from Argentina.
 
 
 I have been studying programming for a short time, today I am doing the second stage of Argentina Programa and I recently finished a three-month intensive course on html, css and javascript. 
