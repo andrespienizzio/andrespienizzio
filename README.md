@@ -20,4 +20,6 @@ I've been studying programming for a few months now, today I'm doing the second 
 - 👨‍💻 All of my projects are available at [GitHub Repositories](https://github.com/andrespienizzio?tab=repositories).
 - ⚡ Fun fact: I'm also a lawyer.
 
+Loco, te voy a contar un secreto: los genios roban a todos, agarran lo que quieren, lo decodifican y lo incorporan a su código. El que roba a uno es un pelotudo, el que le roba a todo el mundo es un genio. El estúpido cree que el genio tiene que inventar algo. Obviamente que no. La influencia está ahí y casi gratis de tan barata. Lo que pasa es que los genios roban, ya los mediocres piden prestado. - Charly Garcia
+
 See you soon!
